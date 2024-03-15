@@ -13,7 +13,7 @@
     <tr>
       <td><a href="https://github.com/Kasiek123/DataCamp_projects/blob/main/Generating%20Keywords%20for%20Google%20Ads.ipynb">Generating Keywords for Google Ads
 </a></td>
-      <td><a href="https://app.datacamp.com/learn/projects/400">Link to DataCamp Project</a></td>
+      <td><a href="https://www.datacamp.com/projects/400">Link to DataCamp Project</a></td>
     </tr>
   </tbody>
 </table>
