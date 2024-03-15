@@ -20,5 +20,10 @@
 </a></td>
       <td><a href="https://www.datacamp.com/projects/684">Project Description</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Kasiek123/DataCamp_projects/blob/main/Data%20Driven%20Product%20Management%20Conducting%20a%20Market%20Analysis/Data_Driven_Product_Management_Conducting_a_Market_Analysis.ipynb">Data Driven Product Management Conducting a Market Analysis
+</a></td>
+      <td><a href="https://www.datacamp.com/projects/1684">Project Description</a></td>
+    </tr>
   </tbody>
 </table>
