@@ -15,7 +15,7 @@
 </a></td>
       <td><a href="https://www.datacamp.com/projects/400">Project Description</a></td>
     </tr>
-    tr>
+    <tr>
       <td><a href="https://github.com/Kasiek123/DataCamp_projects/blob/main/Analyzing%20TV%20Data/Analyzing_TV_Data.ipynb">Analyzing TV Data
 </a></td>
       <td><a href="https://www.datacamp.com/projects/684">Project Description</a></td>
