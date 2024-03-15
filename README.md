@@ -1,10 +1,8 @@
-<h1>DataCamp_Projects Repository</h1>
+<h1>List of Projects (Based on DataCamp Projects)</h1>
 
 <p>This repository contains a collection of DataCamp projects covering various topics in data science and programming.</p>
 
-<h2>List of Projects (Based on DataCamp Projects)</h2>
-
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>Project Name</th>
