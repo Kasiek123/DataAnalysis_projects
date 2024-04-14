@@ -29,5 +29,11 @@
       <td><a href="https://www.datacamp.com/projects/1684">Project Description</a></td>
       <td>Python</td>
     </tr>
+        <tr>
+      <td><a href="https://github.com/Kasiek123/DataCamp_projects/blob/main/Analyzing%20American%20Baby%20Name%20Trends/notebook.ipynb">Analyzing American Baby Name Trends
+</a></td>
+      <td><a href="https://www.datacamp.com/projects/1441">Project Description</a></td>
+      <td>PostgreSQL</td>
+    </tr>
   </tbody>
 </table>
