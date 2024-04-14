@@ -35,5 +35,10 @@
       <td><a href="https://www.datacamp.com/projects/1441">Project Description</a></td>
       <td>SQL</td>
     </tr>
+            <tr>
+      <td><a href="https://github.com/Kasiek123/DataCamp_projects/blob/main/Analyzing%20Students'%20Mental%20Health/Analyzing%20Students%20Mental%20Health.ipynb">Analyzing Students' Mental Health</a></td>
+      <td><a href="https://www.datacamp.com/projects/1593">Project Description</a></td>
+      <td>SQL</td>
+    </tr>
   </tbody>
 </table>
